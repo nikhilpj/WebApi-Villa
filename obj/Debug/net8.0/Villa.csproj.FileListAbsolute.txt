@@ -34,3 +34,4 @@ C:\Users\Nikhru\Desktop\WebApi\WebApiProject\Villa\obj\Debug\net8.0\refint\Villa
 C:\Users\Nikhru\Desktop\WebApi\WebApiProject\Villa\obj\Debug\net8.0\Villa.pdb
 C:\Users\Nikhru\Desktop\WebApi\WebApiProject\Villa\obj\Debug\net8.0\Villa.genruntimeconfig.cache
 C:\Users\Nikhru\Desktop\WebApi\WebApiProject\Villa\obj\Debug\net8.0\ref\Villa.dll
+C:\Users\Nikhru\Desktop\WebApi\WebApiProject\Villa\obj\Debug\net8.0\Villa.sourcelink.json
